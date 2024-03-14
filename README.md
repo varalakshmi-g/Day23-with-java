@@ -3,7 +3,7 @@
 Hey all, Today I practiced and learned 
 import java.util.Scanner;
 
-class Day22 {
+class Day23 {
      static int[] mergeArrays(int[] ar1, int[] ar2)
      {
         int i = 0, j = 0, k = 0;
