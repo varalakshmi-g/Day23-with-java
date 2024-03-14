@@ -1,6 +1,7 @@
 # Day23-with-java
 
-Hey all, Today I practiced and learned 
+Hey all, Today I practiced and learned How to write a program for merging of 3 arrays and write the result in a single array.
+
 import java.util.Scanner;
 
 class Day23 {
@@ -58,6 +59,15 @@ class Day23 {
         }
     }
 }
+
+Output:
+4
+0 2 3 4
+5
+2 3 5 6 7 
+6
+3 4 6 8 9 10
+resulatant array : 0 2 3 2 3 4 3 5 6 4 6 8 7 9 10
 
 
 
